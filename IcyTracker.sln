@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcyTracker", "IcyTracker\IcyTracker.csproj", "{FFF1438D-F0D3-453B-A6FE-78B3ECB5E496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF1438D-F0D3-453B-A6FE-78B3ECB5E496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF1438D-F0D3-453B-A6FE-78B3ECB5E496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF1438D-F0D3-453B-A6FE-78B3ECB5E496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF1438D-F0D3-453B-A6FE-78B3ECB5E496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFA401B-89CC-4F29-AC4F-CC4E9282CA7E}
+	EndGlobalSection
+EndGlobal
