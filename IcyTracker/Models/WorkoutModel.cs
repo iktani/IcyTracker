@@ -15,8 +15,9 @@ namespace IcyTracker.Models
     public class WorkoutModel
     {
         public int ID { get; set; }
-        public double Swim { get; set; }
+        public double SwimRaw { get; set; }
         public SwimMeasurementType Metric { get; set; }
+        public double Swim { get; set; }
         public double Bike { get; set; }
         public double Run { get; set; }
         public DateTime Date { get; set; }
